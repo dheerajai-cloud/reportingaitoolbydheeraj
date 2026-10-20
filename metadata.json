@@ -1,0 +1,6 @@
+{
+  "name": "ReportCraft AI - Case Study & Business Report Generator",
+  "description": "Transform raw notes, screenshots, and metrics in any language into high-converting visual case studies, audit decks, weekly and monthly executive reports with multi-format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
